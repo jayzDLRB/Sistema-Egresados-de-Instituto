@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|c:\\users\\lab g\\downloads\\efsrt_paul_muller\\paul muller\\presentacion\\formularios\\egresados\\formularioegresados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formularios\\egresados\\formularioegresados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|c:\\users\\lab g\\downloads\\efsrt_paul_muller\\paul muller\\presentacion\\formularios\\egresados\\formularioegresados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formularios\\egresados\\formularioegresados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|c:\\users\\lab g\\downloads\\efsrt_paul_muller\\paul muller\\presentacion\\principal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\principal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|c:\\users\\lab g\\downloads\\efsrt_paul_muller\\paul muller\\presentacion\\formularios\\carrerascursos\\formulariocarrerascursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formularios\\carrerascursos\\formulariocarrerascursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|c:\\users\\lab g\\downloads\\efsrt_paul_muller\\paul muller\\presentacion\\formularios\\carrerascursos\\formulariocarrerascursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2AF3A-3592-4D42-9227-440A0179C0ED}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formularios\\carrerascursos\\formulariocarrerascursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F61A-0E9C-45DC-88D1-9ED0848282F9}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\lab g\\downloads\\efsrt_paul_muller\\paul muller\\accesodatos\\conectar\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F61A-0E9C-45DC-88D1-9ED0848282F9}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\conectar\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormularioEgresados.cs",
+              "DocumentMoniker": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Formularios\\Egresados\\FormularioEgresados.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Formularios\\Egresados\\FormularioEgresados.cs",
+              "ToolTip": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Formularios\\Egresados\\FormularioEgresados.cs",
+              "RelativeToolTip": "Presentacion\\Formularios\\Egresados\\FormularioEgresados.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:03:17.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioEgresados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Formularios\\Egresados\\FormularioEgresados.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Formularios\\Egresados\\FormularioEgresados.cs",
+              "ToolTip": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Formularios\\Egresados\\FormularioEgresados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Formularios\\Egresados\\FormularioEgresados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:44:53.243Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularioCarrerasCursos.cs",
+              "DocumentMoniker": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Formularios\\CarrerasCursos\\FormularioCarrerasCursos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Formularios\\CarrerasCursos\\FormularioCarrerasCursos.cs",
+              "ToolTip": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Formularios\\CarrerasCursos\\FormularioCarrerasCursos.cs",
+              "RelativeToolTip": "Presentacion\\Formularios\\CarrerasCursos\\FormularioCarrerasCursos.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:37:25.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Principal\\Menu.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Principal\\Menu.cs",
+              "ToolTip": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Principal\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Principal\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:28:05.723Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormularioCarrerasCursos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Formularios\\CarrerasCursos\\FormularioCarrerasCursos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Formularios\\CarrerasCursos\\FormularioCarrerasCursos.cs",
+              "ToolTip": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\Presentacion\\Formularios\\CarrerasCursos\\FormularioCarrerasCursos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Formularios\\CarrerasCursos\\FormularioCarrerasCursos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:02:16.226Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\AccesoDatos\\Conectar\\Conexion.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Conectar\\Conexion.cs",
+              "ToolTip": "C:\\Users\\LAB G\\Downloads\\EFSRT_Paul_muller\\Paul Muller\\AccesoDatos\\Conectar\\Conexion.cs",
+              "RelativeToolTip": "AccesoDatos\\Conectar\\Conexion.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:46:22.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Interop.WMPLib.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Interop.WMPLib.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Login.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Elementos\Logo_Muller.mp4
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Menu.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.RecuperarContraseña.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Registrarse.resources
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Elementos\Logo_Muller.mp4
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Interop.WMPLib.dll
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Interop.WMPLib.dll
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Login.resources
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Menu.resources
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.RecuperarContraseña.resources
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Registrarse.resources
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Negocio.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Entidades.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Elementos\Logo_Muller.mp4
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Negocio.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Entidades.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\Interop.WMPLib.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Interop.WMPLib.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Login.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Menu.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.RecuperarContraseña.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Principal.Registrarse.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.Inicio.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.CarrerasCursos.FormMoficarCarrera.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.CarrerasCursos.FormularioCarrerasCursos.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.CarrerasCursos.FormModificarCursos.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.NivelesInformativos.FormularioNivelInformativo.resources
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.NivelesInformativos.FormModificarNivelInformativo.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.CarrerasCursos.FormMoficarCarrera.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.CarrerasCursos.FormularioCarrerasCursos.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.Egresados.FormularioEgresados.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.Inicio.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.NivelesInformativos.FormModificarNivelInformativo.resources
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Presentacion\obj\Debug\Presentacion.Formularios.NivelesInformativos.FormularioNivelInformativo.resources

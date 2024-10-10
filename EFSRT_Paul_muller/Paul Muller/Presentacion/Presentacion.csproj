@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18A2AF3A-3592-4D42-9227-440A0179C0ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.6.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.6.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Elementos\CustomCorreoTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Elementos\CustomPasswordTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Elementos\CustomUsuarioTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Elementos\MinMaxCerrar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Elementos\MinyCerrar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Elementos\RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\BusquedaEgresados\FormularioBusquedaEgresados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\BusquedaEgresados\FormularioBusquedaEgresados.Designer.cs">
+      <DependentUpon>FormularioBusquedaEgresados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CarrerasCursos\FormMoficarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CarrerasCursos\FormMoficarCarrera.Designer.cs">
+      <DependentUpon>FormMoficarCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CarrerasCursos\FormularioCarrerasCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CarrerasCursos\FormularioCarrerasCursos.Designer.cs">
+      <DependentUpon>FormularioCarrerasCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Egresados\FormularioEgresados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Egresados\FormularioEgresados.Designer.cs">
+      <DependentUpon>FormularioEgresados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\EstadisticaGenerales\FormularioEstadisticasGenerales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\EstadisticaGenerales\FormularioEstadisticasGenerales.Designer.cs">
+      <DependentUpon>FormularioEstadisticasGenerales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\InformesGenerales\FormularioInformesGenerales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\InformesGenerales\FormularioInformesGenerales.Designer.cs">
+      <DependentUpon>FormularioInformesGenerales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\NivelesInformativos\FormModificarNivelInformativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\NivelesInformativos\FormModificarNivelInformativo.Designer.cs">
+      <DependentUpon>FormModificarNivelInformativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\NivelesInformativos\FormularioNivelInformativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\NivelesInformativos\FormularioNivelInformativo.Designer.cs">
+      <DependentUpon>FormularioNivelInformativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\RecuperarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\RecuperarContraseña.Designer.cs">
+      <DependentUpon>RecuperarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\Registrarse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\Registrarse.Designer.cs">
+      <DependentUpon>Registrarse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CarrerasCursos\FormMoficarCarrera.resx">
+      <DependentUpon>FormMoficarCarrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CarrerasCursos\FormularioCarrerasCursos.resx">
+      <DependentUpon>FormularioCarrerasCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Egresados\FormularioEgresados.resx">
+      <DependentUpon>FormularioEgresados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\NivelesInformativos\FormModificarNivelInformativo.resx">
+      <DependentUpon>FormModificarNivelInformativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\NivelesInformativos\FormularioNivelInformativo.resx">
+      <DependentUpon>FormularioNivelInformativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\RecuperarContraseña.resx">
+      <DependentUpon>RecuperarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\Registrarse.resx">
+      <DependentUpon>Registrarse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{6ae3f61a-0e9c-45dc-88d1-9ed0848282f9}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{29e9f75c-c75a-4440-b245-8f2e8a031b42}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Elementos\Logo_Muller.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\cerrar-ojo.png" />
+    <None Include="Resources\UserIconGray1.png" />
+    <None Include="Resources\cerrar-ojo1.png" />
+    <Content Include="Resources\MessageIconBlue.png" />
+    <None Include="Resources\MessageIconBlue1.png" />
+    <Content Include="Resources\MessageIconGray.png" />
+    <None Include="Resources\MessageIconGray1.png" />
+    <Content Include="Resources\ojo.png" />
+    <None Include="Resources\ojo1.png" />
+    <Content Include="Resources\ojoAzul.png" />
+    <None Include="Resources\ojoAzul1.png" />
+    <Content Include="Resources\PasswordIconBlue.png" />
+    <None Include="Resources\PasswordIconBlue1.png" />
+    <Content Include="Resources\PasswordIconGray.png" />
+    <None Include="Resources\PasswordIconGray1.png" />
+    <Content Include="Resources\UserIconBlue.png" />
+    <None Include="Resources\UserIconBlue1.png" />
+    <Content Include="Resources\UserIconGray.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

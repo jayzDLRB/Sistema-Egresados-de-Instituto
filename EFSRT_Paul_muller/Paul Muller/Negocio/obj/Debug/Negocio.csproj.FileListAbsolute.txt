@@ -1,0 +1,32 @@
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Negocio.dll
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Negocio.pdb
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.dll
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.pdb
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LAB G\Desktop\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Negocio.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Negocio.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Entidades.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Entidades.pdb
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.dll
+C:\Users\williams\source\repos\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.pdb
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Negocio.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Negocio.pdb
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Entidades.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\bin\Debug\Entidades.pdb
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.dll
+C:\Users\LAB G\Downloads\EFSRT_Paul_muller\Paul Muller\Negocio\obj\Debug\Negocio.pdb
